@@ -1,0 +1,6 @@
+c:\users\levi\documents\visual studio 2015\Projects\rec\rec\bin\Debug\rec.exe.config
+c:\users\levi\documents\visual studio 2015\Projects\rec\rec\obj\Debug\rec.csprojResolveAssemblyReference.cache
+c:\users\levi\documents\visual studio 2015\Projects\rec\rec\bin\Debug\rec.exe
+c:\users\levi\documents\visual studio 2015\Projects\rec\rec\bin\Debug\rec.pdb
+c:\users\levi\documents\visual studio 2015\Projects\rec\rec\obj\Debug\rec.exe
+c:\users\levi\documents\visual studio 2015\Projects\rec\rec\obj\Debug\rec.pdb
